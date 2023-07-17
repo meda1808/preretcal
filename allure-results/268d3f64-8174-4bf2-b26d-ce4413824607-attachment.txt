@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//button[normalize-space(text()) = \"Save changes\"] | .//button[not(.//button[normalize-space(text()) = \"Save changes\"]) and normalize-space() = \"Save changes\"]"
+}

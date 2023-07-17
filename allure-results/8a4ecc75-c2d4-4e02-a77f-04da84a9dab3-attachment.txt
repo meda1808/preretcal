@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//*[contains(@id, \"a\") and normalize-space(text()) = \"Adjust default values\"] | .//*[contains(@id, \"a\") and not(.//*[contains(@id, \"a\") and normalize-space(text()) = \"Adjust default values\"]) and normalize-space() = \"Adjust default values\"]"
+}

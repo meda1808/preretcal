@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//button[normalize-space(text()) = \"info\"] | .//button[not(.//button[normalize-space(text()) = \"info\"]) and normalize-space() = \"info\"]\"}\n  (Session info: chrome=114.0.5735.199)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00A3A813+48355]\n\t(No symbol) [0x009CC4B1]\n\t(No symbol) [0x008D5358]\n\t(No symbol) [0x009009A5]\n\t(No symbol) [0x00900B3B]\n\t(No symbol) [0x0092E232]\n\t(No symbol) [0x0091A784]\n\t(No symbol) [0x0092C922]\n\t(No symbol) [0x0091A536]\n\t(No symbol) [0x008F82DC]\n\t(No symbol) [0x008F93DD]\n\tGetHandleVerifier [0x00C9AABD+2539405]\n\tGetHandleVerifier [0x00CDA78F+2800735]\n\tGetHandleVerifier [0x00CD456C+2775612]\n\tGetHandleVerifier [0x00AC51E0+616112]\n\t(No symbol) [0x009D5F8C]\n\t(No symbol) [0x009D2328]\n\t(No symbol) [0x009D240B]\n\t(No symbol) [0x009C4FF7]\n\tBaseThreadInitThunk [0x75B400C9+25]\n\tRtlGetAppContainerNamedObjectPath [0x770F7B1E+286]\n\tRtlGetAppContainerNamedObjectPath [0x770F7AEE+238]\n"
+}

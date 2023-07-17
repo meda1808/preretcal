@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//a[normalize-space(text()) = \"Adjust default values\"] | .//a[not(.//a[normalize-space(text()) = \"Adjust default values\"]) and normalize-space() = \"Adjust default values\"]"
+}

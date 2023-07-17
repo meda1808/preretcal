@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//label[normalize-space(text()) = \"Married\"] | .//label[not(.//label[normalize-space(text()) = \"Married\"]) and normalize-space() = \"Married\"]"
+}
